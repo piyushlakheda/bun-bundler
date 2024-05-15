@@ -1,0 +1,15 @@
+{
+  "name": "dyte",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "escodegen": "^2.1.0",
+    "esprima": "^4.0.1"
+  }
+}
