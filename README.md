@@ -1,16 +1,20 @@
 # dyte
+`STEP 1:` 
+ To install dependencies:
 
-To install dependencies:
+ ```bash
+  bun install
+ ```
 
-```bash
-bun install
-```
+`STEP 2:`
+ Also if there's no dist folder in the root directory create one and the follow the next step to make the bundler run.
 
-To run:
+`STEP 3:` 
+ To run:
 
-```bash
-bun run index.js
-```
+ ```bash
+ bun run bundler.js
+ ```
 
 This project was created using `bun init` in bun v1.1.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 
